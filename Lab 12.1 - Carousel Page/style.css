@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/1.png");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/14.png");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/3.png");
+}
+.carousel-item {
+  height: 500px;
+}
